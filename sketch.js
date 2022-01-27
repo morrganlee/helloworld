@@ -20,7 +20,7 @@ function draw() {
   background('#9D5C63');
 
   fill('#584b53');
-  text("Hello, World.", width/2, height/2);
+  text("Hello, World.", width/2, height/4);
 
   fill(shade);
   noStroke();
